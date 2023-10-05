@@ -1,0 +1,52 @@
+#USF4_cardmxl
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<card>
+		<card_id>7020392010281502</card_id>   
+		<player_name>わいせつな</player_name>   #使用者名稱 支援中英日文  (User name supports Chinese, English and Japanese)
+		<achieve_status>果てなき道に宿敵が待つ                   </achieve_status>  #使用者簡介 支援中英日文 (User information supports Chinese, English, and Japanese)
+		<score_i1>65700</score_i1>    
+		<fcol1>0</fcol1>
+		<fcol2>0</fcol2>
+		<fcol3>0</fcol3>
+		<created>2023/09/26 19:10:51</created>    #創卡日期  (Card creation date)
+		<modified>2023/09/29 08:49:41</modified>   #最後遊玩日期 (last match date)
+	</card>
+	<card_detail>
+		<record>
+			<card_id>7020392010281502</card_id>
+			<score_i1>2</score_i1>
+			<pcol1>0</pcol1>          #人物id (role number)
+			<pcol2>0</pcol2>          
+			<pcol3>0</pcol3>
+			<score_ui1>28</score_ui1>    #熟練稱號 (Skilled professional title)1~60
+			<score_ui2>3</score_ui2>     #人物衣服(Character clothing) 0~4
+			<score_ui3>375</score_ui3>   #稱號 (title) [1-684] [1001~1282 (NO-1018-1019)] ID可參考USF4_NESICA_TITLE 文件 (ID can refer to the USF4_NESICA_TITLE file)
+			<score_ui4>0</score_ui4>     #敗勝(Probability of defeat) [1隱藏(hide) 2.只顯示場數(Show only the number of rounds)]
+			<score_ui5>3</score_ui5>     #腳色顏色 (character color) 0~8
+			<score_ui6>0</score_ui6>     #初始必殺技模式(Default ultimate move) [0~2 (0(I) 1(II) 2(I+II))]
+                        <score_bi1>0</score_bi1>     #人物語言(character language) [0~2 0(SYSTEM) 1(JAPAN) 2(English)]
+			<last_play_tenpo_id>0</last_play_tenpo_id>
+			<fcol1>0</fcol1>
+			<fcol2>0</fcol2>
+			<fcol3>0</fcol3>
+		</record>
+		<record>
+			<card_id>7020392010281502</card_id>
+			<last_play_tenpo_id>0</last_play_tenpo_id>
+			<pcol1>0</pcol1>
+			<pcol2>1</pcol2>
+			<pcol3>0</pcol3>
+			<score_i1>0</score_i1>
+			<score_ui1>278</score_ui1>     #勝利 (victory)
+			<score_ui2>187</score_ui2>     #失敗 (fail)
+			<score_ui3>0</score_ui3>
+			<score_ui4>0</score_ui4>
+			<score_ui5>2</score_ui5>
+			<score_ui6>0</score_ui6>
+			<score_bi1>3500</score_bi1>    #人物BP分數 (BP points)
+			<fcol1>0</fcol1>
+			<fcol2>0</fcol2>
+			<fcol3>0</fcol3>
+		</record>
+		

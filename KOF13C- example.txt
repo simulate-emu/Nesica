@@ -1,0 +1,19 @@
+		<record>
+			<card_id>7020392010281502</card_id>
+			<score_i1>0</score_i1>
+			<pcol1>0</pcol1>
+			<pcol2>0</pcol2>
+			<pcol3>0</pcol3>
+			<score_ui1>557</score_ui1> #勝利 (victory)
+			<score_ui2>325</score_ui2> #失敗 (fail)
+			<score_ui3>0</score_ui3>
+			<score_ui4>33</score_ui4> #稱號 (title) 1~33
+			<score_ui5>0</score_ui5>
+			<score_ui6>0</score_ui6>
+			<score_bi1>0</score_bi1>
+			<last_play_tenpo_id>0</last_play_tenpo_id>
+			<fcol1>0</fcol1>
+			<fcol2>0</fcol2>
+			<fcol3>0</fcol3>
+		</record>
+	</card_detail>
